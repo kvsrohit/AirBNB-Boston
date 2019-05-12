@@ -14,7 +14,8 @@
 In order to execute the Jupyter Notebook you should have **Anaconda 4.5.11** and **python 3.6.6** installed. 
 The notebook needs scikit-learn, matplotlib, numpy and pandas libraries. These are available as part of Anaconda installation and don't need any additional installation.
 
-Clone the repo: `git clone https://github.com/kvsrohit/AirBNB-Boston.git`
+- Clone the repo: `git clone https://github.com/kvsrohit/AirBNB-Boston.git`
+- Run the Jupyter Notebook
 
 ## Motivation
 A quick glance at [AirBnB Boston data][1]<sup>1</sup> arouse curiosity to see if following questions can be convincingly answered using data analysis.
