@@ -14,6 +14,9 @@
 In order to execute the Jupyter Notebook you should have **Anaconda 4.5.11** and **python 3.6.6** installed. 
 The notebook needs scikit-learn, matplotlib, numpy and pandas libraries. These are available as part of Anaconda installation and don't need any additional installation.
 
+You will need to install sentiment analysis library textblob if not already available.
+> conda install -c conda-forge textblob
+
 - Clone the repo: `git clone https://github.com/kvsrohit/AirBNB-Boston.git`
 - Run the Jupyter Notebook
 
