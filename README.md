@@ -56,7 +56,7 @@ AirBNB-Boston/
   - Host Response Time showed up as most important feature deciding the review ratings. Possibly due to the first impression effect.
   - This was followed by property type and cancellation policy.
 
-
+A detailed discussion can be found on my [medium.com story](https://medium.com/@khode.rohit/airbnb-hosting-in-boston-d08986371788)
 
 ## References
 1. https://www.kaggle.com/airbnb/boston 
